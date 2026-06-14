@@ -30,6 +30,6 @@ psg_trn-EarthPrototype.txt
 psg_trn-40000ppm-CO2.txt  
 psg_trn-10000ppmCH4.txt  
 psg_trn-Cloudy-water.txt  
-psg_trn-c2f6.txt  
-psg_trn-C3F8.txt
-psg_trn-CF4.txt  
+psg_trn-c2f6.txt    
+psg_trn-C3F8.txt    
+psg_trn-CF4.txt    
